@@ -36,4 +36,4 @@ Abrir os notebooks a partir da raiz do repositório (para o `import src` funcion
 
 ## Declaração de uso de IA
 
-Claude (Anthropic) foi usado como assistente no Checkpoint 1 para propor a estrutura do notebook, o código de `src/dados.py` e um primeiro rascunho das respostas. (Rever e completar antes da entrega.)
+Claude (Anthropic) foi usado como assistente no Checkpoint 1 para propor a estrutura do notebook, o código de `src/dados.py` e um primeiro rascunho das respostas.
